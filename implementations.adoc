@@ -43,6 +43,14 @@
 | OGC API - Tiles
 | https://github.com/francbartoli[Francesco Bartoli]
 
+| https://github.com/geopython/pygeoapi/pull/419[pygeoapi implementation of OGC API - Tiles (draft PR)]
+| OGC API - Tiles
+| https://github.com/francbartoli[Francesco Bartoli]
+
+| https://testbed17.adamplatform.eu/datacube/api/v0[OGC Testbed-17 Geo Data Cube (GDC) instance 3 (D177 deliverable)]
+| OGC API - Tiles, Coverages
+| https://github.com/smantovani[Simone Mantovani]
+
 | TBA
 | TBA
 | TBA
@@ -81,10 +89,6 @@
 | https://github.com/openlayers/openlayers/pull/10963[OpenLayers]
 | OGC API - Tiles
 | https://github.com/tschaub[Tim Schaub]
-
-| https://gdal.org[GDAL/OGR] (https://gdal.org/drivers/raster/ogcapi.html[OPC API driver])
-| OGC API - Features/Coverages/Maps/Tiles
-| https://github.com/osgeo/gdal[osgeo/gdal]
 
 | TBA
 | TBA
